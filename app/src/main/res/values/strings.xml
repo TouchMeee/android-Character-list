@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">Submission</string>
+
+    <string name="Chara_name">Characters</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="M_Zulfikar">Muhammad Zulfikar</string>
+    <string name="email"> Email : muhammad.zulfikar@students.amikom.ac.id</string>
+    <string name="gambar_charas">Gambar Characters</string>
+    <string name="nama_charas">Nama Characters</string>
+    <string name="detail_charas">Detail charas</string>
+    <string name="role">Role and Speciality</string>
+    <string name="ultimate">Ultimate</string>
+    <string name="kelebihan">Kelebihan</string>
+    <string name="kekurangan">Kekurangan</string>
+
+
+    <string-array name="detail">
+        <item>Di ruang bawah tanah akademi sihir, terdapat tanda bahaya dan peringatan di mana-mana. Ini merupakan surga bagi para dark magician atau penyihir kegelapan. Ledakan yang keras dan potion yang berbau tajam, menjadikan tempat itu terasa mencekam layaknya rumah hantu. Hanya ada beberapa orang yang datang dan bersedia berteman dengan dark magician. Sebagai keturunan seorang dark magician, Lylia memiliki karakter yang unik dan penuh kreativitas. Menurut buku sejarah akademi sihir, orang tua Lylia adalah penguasa tertinggi di antara dark magician dan merupakan salah satu pendiri akademi sihir. Tapi karena daya rusak yang dimiliki oleh mereka, orang tua Lylia dipaksa untuk meninggalkan akademi sihir.</item>
+        <item>Di semesta Mobile Legends, Layla tinggal di sebuah dunia yang diselimuti oleh energi jahat yang menjadi wabah berbahaya bagi manusia. Kekuatan berbahaya itu disebut dengan Malefic Energy. Energi jahat yang apabila manusia atau makhluk hidup lain menyentuhnya akan kehilangan ingatan dan berubah menjadi sosok yang brutal dan beringas. Energi tersebut membuat dunia asal Layla menjadi hancur seketika. Hingga suatu hari, ayah Layla menemukan cara untuk menyerap energi jahat tersebut. Akhirnya, ayah Layla memutuskan untuk membuat sebuah meriam pistol yang dibuat dan ditempa dengan bahan besi ajaib yang didapatkan dari dalam inti Bumi yang sangat dalam. Pistol tersebut dapat menyerap dan mengendalikan energi Malefic, Sayangnya, saat membuat pistol tersebut, ayah Layla menyerap terlalu banyak energi Malefic. Untungnya, sebelum gugur, beliau sempat menyerahkan pistol tersebut kepada Layla. Dengan berbekal pistol tersebut, Layla bertualang di Land of Dawn sambil berusaha untuk menyerap sebanyak mungkin energi Malefic agar tidak menyebar lebih parah lagi di dunia tempat Layla dilahirkan.</item>
+        <item>Seiring dengan berjalannya waktu, para Centaur pun mulai merasa kelelahan. Kesempatan itu diambil oleh Dark Force untuk menyerang dan melakukan pertempuran. Kekuatan mata air tersebut hampir saja diambil, sampai pada akhirnya datanglah seorang Centaur yang sangat kuat bernama Hylos. Hylos mendapatakan kekuatannya dari penguasaan kemarahan alam. Kekuatan tersebut digunakannya untuk memukul mundur serta menghukum para penyusup yang memasuki area mata air. Setelah kejadian tersebut, Hylos menjadi sosok legendaris yang terkenal di seluruh Land of Dawn.</item>
+        <item>Professor Henry dan istrinya bekerja untuk Dawn Council untuk meneliti sekaligus menyediakan teknologi canggih untuk agen pemerintahan maupun klien misterius yang mereka tidak ketahui. Suatu hari, mereka telah selesai mengembangkan teknologi terbaru yaitu SMART-01, sebuah robot yang sangat pintar dan lebih kuat dari android lainnya di seluruh dunia. Robot ini bisa bergerak sesuai dengan kesadaran pemiliknya dan teknologi ini tidak pernah ada di belahan negara manapun. Pemimpin Dawn Council melihat potensi SMART-01 untuk berperang, dan memerintahkan Henry dan istrinya untuk menerapkan teknologinya ke agen pemerintahan supaya bisa diproduksi secara massal. Mereka berdua menolak perintah tersebut lalu menugaskan prototipe SMART-01 untuk menghancurkan semua data penelitian dan menghilang secara misterius.Keluarga Paxley merupakan salah satu keluarga bangsawan dengan kemampuan sihir yang terkuat dan paling berwibawa di Land of Dawn. Setiap anggota keluarga Paxley dibesarkan untuk menjadi mage terbaik sekaligus terkuat. Bagi keluarga Paxley, jalan mage merupakan hal yang paling sakral serta mulia. Mereka menganggap para pengguna pedang di medan pertempuran adalah orang-orang lemah, barbar dan bodoh. Di luar dugaan, Gusion yang merupakan anak keempat dari kepala keluarga Paxley menyukai pedang dan pisau lebih dari apapun. Ia memamerkan keahliannya dalam menggabungkan elemen cahaya dengan pedang di usia yang sangat muda. Ketimbang menghabiskan hari-harinya di tumpukan buku, Gusion lebih memilih untuk mengontrol cahaya lalu memasukkannya ke dirinya sendiri sehingga ia bisa berlari dengan cepat mengelilingi tempat tinggalnya tersebut hanya dengan beberapa menit saja. Gussion sangat paham bahwa para tetua keluarga Paxley begitu keras kepala sehingga ia dilarang untuk menggunakan kemampuannya. Sampai pada akhirnya, Gusion diberi kesempatan untuk membuktikan dirinya dengan mengambil tes paling penting di keluarganya yaitu sebuah jalan menuju kedewasaan. Dalam tes tersebut Gusion berlari dengan kecepatan tinggi, membuat musuh-musuhnya tidak berkutik dan kesulitan menghadapinya karena kecepatannya. Dengan pedang berisi elemen cahaya tersebut, ia berhasil menang tanpa memberikan musuh mengeluarkan satu sihirpun. </item>
+        <item>Nana lahir di dalam sebuah hutan ajaib yang jauh dari peradaban. Dia terlahir sebagai peri kucing yang menguasai kekuatan besar sejak lahir. Sayangnya kekuatan sihir itu sangat sulit dia kendalikan. Kekuatan sihir milik Nana sangat berbahaya. Suatu ketika kekuatan miliknya keluar dengan sangat dahsyat dan menghancurkan separuh kampung halaman Nana. Untunglah suatu hari Miya sang pengelana dari bangsa Moon Elf datang ke desa Nana. Dia melihat kekacauan yang terjadi dan mengerti sebuah teknik yang akan membuat Nana bisa mengendalikan kekuatan sihirnya yang berbahaya itu. Nana ternyata belajar sangat cepat ajaran dari Miya. Akhirnya Nana dapat mengendalikan kekuatan tersebut dan memanfaatkan sihir hebat itu untuk membantu sesama. Semua teknik sihir yang diajarkan oleh Miya dengan cepat diserap oleh Nana. Nana pun kemudian memutuskan untuk mengikuti jejak Miya pergi ke Land of Dawn. Mereka berdua mencari keberadaan Raja baru yang dapat memimpin dunia dan menyelamatkan Land of Dawn.</item>
+        <item>Professor Henry dan istrinya bekerja untuk Dawn Council untuk meneliti sekaligus menyediakan teknologi canggih untuk agen pemerintahan maupun klien misterius yang mereka tidak ketahui. Suatu hari, mereka telah selesai mengembangkan teknologi terbaru yaitu SMART-01, sebuah robot yang sangat pintar dan lebih kuat dari android lainnya di seluruh dunia. Robot ini bisa bergerak sesuai dengan kesadaran pemiliknya dan teknologi ini tidak pernah ada di belahan negara manapun. Pemimpin Dawn Council melihat potensi SMART-01 untuk berperang, dan memerintahkan Henry dan istrinya untuk menerapkan teknologinya ke agen pemerintahan supaya bisa diproduksi secara massal. Mereka berdua menolak perintah tersebut lalu menugaskan prototipe SMART-01 untuk menghancurkan semua data penelitian dan menghilang secara misterius.</item>
+        <item>Di sebuah kota para ninja Iga, terdapat seorang ninja terkuat dari berbagai generasi hidup di sana yang menyandang gelar Shadow of Iga dan memikul tanggung jawab untuk menjalankan misi yang paling sulit dan berbahaya. Salah satunya adalah melindungi kota Iga siang dan malam tanpa diketahui para penduduk di sana. Pada suatu hari seorang penyandang gelar Shadow of Iga berkhianat dari kota Iga, meninggalkan kota tersebut untuk mencari kekuatan yang lebih besar, dan menanggalkan gelar kehormatan Shadow of Iga. Setelah kejadian tersebut, Hayabusa pun dinobatkan menjadi Shadow of Iga selanjutnya dan bertugas untuk melindungi kota dan diutus ke Land of Dawn untuk menjalankan misi paling berat dan berbahaya, yaitu mencari sekaligus membunuh Shadow of Iga sebelumnya. Sosok yang diincar oleh Hayabusa tidaklah mudah untuk dikalahkan, sebab sang penghianat pernah mendapat julukan Shadow of Iga terkuat selama berabad-abad.</item>
+        <item>Mobile Legends: Bang Bang adalah game multiplayer online battle arena (MOBA) yang dirancang untuk ponsel. Dua tim lawan bertarung untuk mencapai dan menghancurkan markas musuh sambil mempertahankan markas mereka sendiri untuk mengontrol jalur, tiga "jalur" yang dikenal sebagai "atas", "tengah", dan "bawah", yang menghubungkan pangkalan. [4 ] Karakter terkontrol komputer yang lebih lemah, yang disebut "minion", muncul di markas tim dan mengikuti tiga jalur ke markas tim lawan, melawan musuh dan menara. </item>
+        <item>Alkisah dahulu kala ada seorang pemburu pemberani yang menyelamatkan si tudung merah dan neneknya dari dalam perut serigala. Setelah sang serigala terbunuh, mereka hidup bahagia selamanya. Sayangnya akhir sesungguhnya dari cerita tersebut ternyata tidak sesederhana itu. Sang serigala yang dilukai perutnya ternyata masih hidup dan menahan sakit serta malu atas luka di perutnya. Ternyata dia adalah raja di antara raja serigala yang memiliki kawanan buas. Suatu malam, dalam gelapnya bulan purnama sang raja serigala memimpin kelompoknya menyerang desa tempat sang pemburu hidup. Dalam penyerangan tersebut sang pemburu terbunuh saat berusaha menyelamatkan sang nenek sekali lagi.</item>
+        <item>Diwilayah barat dari land of dawn, terdapat suatu kota yang masih terkenal barbar, dimana keadilan sulit ditegakkan dan perang antara suku kerap terjadi. Disana terdapat dua suku terkuat dan merupakan musuh bebuyutan, yaitu suku Wildsand dan Hietala Grassland. Mereka memiliki latar belakang tempat tinggal yang jauh berbeda. Wildsand adalah suku yang hidup ditempat tandus dan jarang ada air. Kemiskinan dan kelaparan sudah menjadi hal yang wajar di tempat tersebut. Sedangkan Hietala Grassland adalah tempat yang subur dan hijau, karena disana terdapat sumber mata air yang sangat besar. Namum sayangnya keegoisan dan kebengisan pasukan Hietala membuat semua orang disana merasa berang, tapi tidak ada suku disekitarnya yang bisa dibandingkan dengan Hietala kecuali wildland. </item>
+    </string-array>
+
+    <string-array name="chara_name">
+        <item>Lylia</item>
+        <item>Layla</item>
+        <item>Hylos</item>
+        <item>Gusion</item>
+        <item>Nana</item>
+        <item>Jawhead</item>
+        <item>Hayabusa</item>
+        <item>Lesley</item>
+        <item>Ruby</item>
+        <item>Moskov</item>
+    </string-array>
+
+    <string-array name="chara_role_speciality">
+        <item>Mage, Burst</item>
+        <item>Marksman, Reap</item>
+        <item>Tank, Regen</item>
+        <item>Assasin, Burst</item>
+        <item>Mage, Crowd Control</item>
+        <item>Fighter, Reap</item>
+        <item>Assasin, Burst</item>
+        <item>Marksman, Burst</item>
+        <item>Fighter. Crowd Control</item>
+        <item>Marksman, Push</item>
+    </string-array>
+
+    <string-array name="chara_ulti">
+        <item>Lylia kembali seketika ke posisi dimana Black Shoe-nya berada selama 4 detik yang lalu dan mendapatkan Stack dengan jumlah maksimal untuk menggunakan Shadow Energy, meregenerasi 15% dari Max HP dan meningkatkan movement speed-nya sebesar 40% dan berlangsung selama 2 detik.</item>
+        <item>Menembakkan meriam energi yang menyebabkan 500(+150% Physical Attack) physical damage ke seluruh musuh dalam garis lurus. Setiap pertambahan skill ini akan menambah jarak serangan biasa sebesar 0.4.</item>
+        <item>Menciptakan sebuah jalur selama 6 detik, Hylos akan memulihkan 4% maksimum HPnya dan kebal dari efek slow selama dalam jalur ini. Teman yang bergerak dalam jalur ini akan mendapatkan tambahan movement speed sebesar 60%, musuh yang bergerak kabur dari jalur ini akan dikurangi movement speednya sebesar 70%.</item>
+        <item>Melesat ke arah yang ditentukan, mengembalikan cooldown Sword Spike dan Shadowblade Slaughter. Skill ini dapat digunakan lagi setelah beberapa saat untuk melesat lagi ke arah yang ditentukan. Setelah cooldownnya sudah direset, Gusion dapat segera melempar 5 pisau dengan Shadowblade Slaughter, dan memanggil 10 pisau kembali.</item>
+        <item>Memanggil Molina untuk menyerang area yang ditentukan sebanyak 3 kali. Setiap serangannya menghasilkan 360(+180% Magic Power) poin magic damage ke musuh di area tersebut dan memperlambat mereka selama 2 detik. Bila Molina menyerang musuh yang sama sebanyak 2 kali, musuh tersebut akan terkena stun selama 1 detik.</item>
+        <item>Mengunci target pada hero dan menerjang ke arah mereka, memberikan efek stun dan melempar mundur musuh di sekitarnya. Menyebabkan 400(+100% Physical Attack) physical damage ke target dan musuh di sekitarnya.</item>
+        <item>Berubah menjadi bayangan dan melesat di medan tempur, menyebabkan damage beruntun ke seluruh musuh di sekitar area tertentu. Masing-masing serangan menimbulkan 160(+80% Physical Attack) poin physical damage.</item>
+        <item>Lesley menangkap gerakan seluruh musuh di satu area. Kemudian dia akan mengunci ke salah satu hero dan menembakkan 4 peluru mematikan, menyebabkan 200(+80% Physical Attack) +5% HP target yang sudah hilang sebagai physical damage. Setiap peluru yang mengenai target akan memulihkan 10 Energy. Peluru ini dapat ditahan oleh hero musuh lainnya.</item>
+        <item>Menggunakan sabit besarnya untuk menyerang secara horizontal dalam jarak yang lebar, menyebabkan 205(+180% Physical Attack) poin physical damage pada musuh sekaligus menarik mereka dan menstun selama 0,5 detik</item>
+        <item>Moskov melempar Spear of Destruction setelah mengumpulkan tenaga beberapa saat, memberikan 480(+140% Physical Attack) poin physical damage ke seluruh musuh dalam jalur lemparannya. Setiap musuh yang dikenainya akan menambah 10 poin physical attack untuk Moskov selama 8 detik, dapat ditumpuk sebanyak 5 kali.</item>
+    </string-array>
+
+
+
+    <string-array name="chara_kelebihan">
+        <item>• Mempunyai Instant Damage yang besar
+\n • Sudah memiliki damage yang besar di Early Game
+\n • Skill AoE yang merepotkan lawan
+\n • Akan sangat membantu dalam team fight
+\n • Skill memiliki cooldown yang cukup singkat</item>
+        <item>• Mudah digunakan
+\n • Memiliki jarak serangan terjauh dalam game
+\n • Dapat menghancurkan lawan satu persatu bila berada dalam posisi yang benar"</item>
+        <item>H• Memiliki HP terbesar dalam game
+\n • Dapat menggunakan HP bila mana sudah habis
+\n • Ultimatenya sangat bagus untuk membuka teamfight/menyelamatkan tim
+            \n • Skill keduanya dapat langsung mengunci gerakan hero musuh yang berbahaya. \n • Skill ultimatenya dapat dipakai bersama skill hero lain agar pasti kena.</item>
+        <item>• Potensi burst damage yang sangat tinggi
+\n • Seluruh skillnya dapat digunakan dua kali
+\n • Ultimatenya dapat menyebabkan skill pasifnya keluar berkali-kali, hero tank pun dapat dihabisinya dengan mudah"</item>
+        <item>• Hero Support dengan kemampuan poke yang tinggi. \n • Skill keduanya dapat langsung mengunci gerakan hero musuh yang berbahaya. \n • Skill ultimatenya dapat dipakai bersama skill hero lain agar pasti kena.</item>
+        <item>• Attack speed yang tinggi akan membuat pasifnya sangat mengerikan
+\n • Memiliki kapabilitas zoning yang bagus dengan skill 1 dan 2nya"</item>
+        <item>• Memiliki burst damage yang besar
+\n • Bayangannya membuatnya sangat gesit dan dapat membingungkan musuh
+\n • Ultimatenya sangat mematikan untuk hero yang sedang sendiri</item>
+        <item> Skill 1 memiliki cooldown yang sangat cepat dan membuatnya tak dapat ditarget
+\n • Tidak bisa lari dari ultimatenya setelah dikunci
+\n • Item yang memberikan damage tinggi akan sangat mematikan dengan pasifnya"</item>
+        <item>• Mobilitas tinggi karena pasifnya \n • Efek lifesteal pada skillnya sangat besar
+                    \n • Sangat mengganggu gerakan musuh dalam teamfight"</item>
+        <item>• Serangan basic Moskov mempunyai efek penetrasi, kamu bisa membunuh hero musuh sekalipun bersembunya di belakang seorang Tank.
+\n • Setelah adanya nerf, Moskov tetap memiliki performa yang baik.
+\n • Keseluruhan ultimate untuk menghabisi musuh dengan HP rendah."</item>
+    </string-array>
+
+    <string-array name="chara_kekurangan">
+        <item>• Sulit untuk melakukan lock target ke area lawan
+\n • Pengendalian skill yang cukup merepotkan
+\n • Akan sangat berbahaya jika salah menggunakan Skill Ultimate
+\n • Lylia akan mudah dikalahkan 1 vs 1"</item>
+        <item>• Sangat mudah dibunuh
+\n • Tidak punya skill pergerakan tambahan</item>
+        <item> Damage skillnya sangat kecil
+\n • Skill 2 dapat membunuhmu bila lupa dimatikan saat HP tinggal sedikit\n • Skill ultimatenya memiliki durasi pendek sebelum benar-benar keluar."</item>
+        <item>• Sangat mudah dibunuh
+\n • Tidak punya skill pergerakan tambahan</item>
+        <item>• Sangat mudah dibunuh
+\n • Tidak punya skill pergerakan tambahan</item>
+        <item>• Sulit untuk melakukan lock target ke area lawan
+\n • Pengendalian skill yang cukup merepotkan
+\n • Akan sangat berbahaya jika salah menggunakan Skill Ultimate
+\n • akan mudah dikalahkan 1 vs 1"</item>
+        <item>• Sangat mudah dibunuh
+\n • Tidak punya skill pergerakan tambahan</item>
+        <item>• Sangat mudah dibunuh
+\n • Tidak punya skill pergerakan tambahan</item>
+        <item>• Sulit untuk melakukan lock target ke area lawan
+\n • Pengendalian skill yang cukup merepotkan
+\n • Akan sangat berbahaya jika salah menggunakan Skill Ultimate
+\n • akan mudah dikalahkan 1 vs 1"</item>
+        <item>• Setelah adanya nerf, Moskov benar-benar lemah di awal permainan.
+\n • Dengan perkenalan adanya Karrie, Moskov sering ditumpas di lane tengah.
+\n • Tameng Lolita cukup kuat untuk menahan penetrasi Moskov.
+\n • Harus hati-hati dengan penggunaan Mana.</item>
+    </string-array>
+
+
+    <string-array name="gambar">
+        <item>@drawable/lylia</item>
+        <item>@drawable/layla</item>
+        <item>@drawable/hylos</item>
+        <item>@drawable/gusion</item>
+        <item>@drawable/nana</item>
+        <item>@drawable/jawhead</item>
+        <item>@drawable/hayabusa</item>
+        <item>@drawable/lesley</item>
+        <item>@drawable/ruby</item>
+        <item>@drawable/moskov</item>
+    </string-array>
+
+
+</resources>
